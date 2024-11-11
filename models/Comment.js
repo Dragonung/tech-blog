@@ -43,4 +43,4 @@ Comment.init(
     }
 );
 
-modeule.exports = Comment;
+module.exports = Comment;
